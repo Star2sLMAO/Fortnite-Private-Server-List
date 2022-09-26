@@ -2,8 +2,8 @@
 The List of Online, Offline and WIP Private Servers For Fortnite<br>
 
 # Online Private Servers
-1. <a href="discord.gg/erafn">Era</a> (MP, Singleplayer)<br>
-2. <a href="discord.gg/riftfn">Rift</a> (Singleplayer)
+1. <a href="https://discord.gg/erafn">Era</a> (MP, Singleplayer)<br>
+2. <a href="https://discord.gg/riftfn">Rift</a> (Singleplayer)
 
 # Online Hybrids
 
