@@ -6,6 +6,8 @@ The List of Online, Offline and WIP Private Servers For Fortnite<br>
 2. <a href="https://discord.gg/riftfn">Rift</a> (Singleplayer)
 
 # Online Hybrids
+1. <a href="https://discord.gg/ndJqPKBFx6">BoogieFN</a> (S13, Latest)<br>
+2. <a href="https://discord.gg/stormfn">StormFN</a> (Latest)
 
 # Work In Progress Private Servers
 
